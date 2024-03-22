@@ -20,3 +20,5 @@ This project creates a cursor trail effect with an infinite number of border col
 - You can customize the colors, animation duration, and other styles in the CSS file (`style.css`).
 - Modify the JavaScript code (`script.js`) to change the behavior of the cursor trail.
 
+## screenshot
+![cursor](https://github.com/devarshi002/cursor_animation/assets/124704583/6607125c-8ed2-4e0c-9d14-f6a9f9fee932)
