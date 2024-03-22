@@ -1,5 +1,5 @@
 
-```
+
 # Cursor Trail with Changing Border Colors
 
 This project creates a cursor trail effect with an infinite number of border colors. Each trail element follows the cursor and changes its border color in a continuous loop.
@@ -22,4 +22,4 @@ This project creates a cursor trail effect with an infinite number of border col
 
 ## screenshot
 ![cursor](https://github.com/devarshi002/cursor_animation/assets/124704583/6607125c-8ed2-4e0c-9d14-f6a9f9fee932)
-```
+
